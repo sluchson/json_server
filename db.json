@@ -5,6 +5,7 @@
   ],
   "comments": [
     { "id": 1, "postId": 1, "body": "Super post!" },
-    { "id": 2, "postId": 2, "body": "Też fajny!" }
+    { "id": 2, "postId": 1, "body": "Ciekawe spostrzeżenie" },
+    { "id": 3, "postId": 2, "body": "Dobry wpis!" }
   ]
 }
