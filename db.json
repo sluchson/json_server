@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "id": 1, "title": "Pierwszy post", "body": "To jest pierwszy post" },
+    { "id": 2, "title": "Drugi post", "body": "To jest drugi post" }
+  ],
+  "comments": [
+    { "id": 1, "postId": 1, "body": "Super post!" },
+    { "id": 2, "postId": 2, "body": "Też fajny!" }
+  ]
+}
